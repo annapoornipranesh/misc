@@ -1,0 +1,28 @@
+TIG Aluminium 5083
+5	12GB	Welding	https://www.kaggle.com/danielbacioiu/tig-aluminium-5083
+
+casting product image data for quality inspection
+6	100MB	https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
+
+Mechanic Component Images ( Normal / Defected)
+7	5MB	https://www.kaggle.com/datasets/satishpaladi11/mechanic-component-images-normal-defected
+
+Defects location for metal surface
+56	968 MB	https://www.kaggle.com/zhangyunsheng/defects-class-and-location
+
+AITEX FABRIC IMAGE DATABASE
+59		https://www.aitex.es/afid/
+
+PCB Surface-Defect-Detection
+60		https://github.com/Charmve/Surface-Defect-Detection/tree/master/DeepPCB
+
+Severstal: Steel Defect Detection
+61	1.7 GB	https://www.kaggle.com/c/severstal-steel-defect-detection/overview
+
+
+63		https://github.com/abin24/Magnetic-tile-defect-datasets.
+
+
+67		https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
+
+69		https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection

@@ -1,0 +1,11 @@
+COMPUTER VISION - VISUAL INSPECTION
+
+Active Learninig
+Weak Supervision
+Meta Learning
+
+
+
+Active Learning: Your Model’s New Personal Trainer
+https://odsc.medium.com/active-learning-your-models-new-personal-trainer-a89722c0db5a
+
